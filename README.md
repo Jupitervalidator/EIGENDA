@@ -1,0 +1,9 @@
+# EIGENDA
+
+{
+  "name": "Some operator",
+  "website": "https://www.example.com",
+  "description": "I operate on some data",
+  "logo": "https://www.example.com/logo.png",
+  "twitter": "https://x.com/example"
+}
